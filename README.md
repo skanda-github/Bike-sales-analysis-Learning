@@ -33,5 +33,4 @@ Learned how to use Excel to clean and organize data. I used filtering and sortin
         * Charts
         * Slicers for marital status, region, and education
         
-Data - Given in excel file (SheetName - bike_buyers). 
-Testing Git
+Data - Given in excel file (SheetName - bike_buyers).
